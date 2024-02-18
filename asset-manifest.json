@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/olivebeach-restaurant/static/css/main.915009c3.css",
+    "main.js": "/olivebeach-restaurant/static/js/main.4147cfb1.js",
+    "static/media/meal.mp4": "/olivebeach-restaurant/static/media/meal.936098defeb80bdb32a7.mp4",
+    "static/media/bg.png": "/olivebeach-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/olivebeach-restaurant/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/olivebeach-restaurant/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/olivebeach-restaurant/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/menu.png": "/olivebeach-restaurant/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/chef.png": "/olivebeach-restaurant/static/media/chef.985681ea911fe35f41a1.png",
+    "static/media/gallery04.png": "/olivebeach-restaurant/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/olivebeach-restaurant/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/olivebeach-restaurant/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/olivebeach-restaurant/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/olivebeach-restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/olivebeach-restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/olivebeach.png": "/olivebeach-restaurant/static/media/olivebeach.5eb7517ded9f1d466320.png",
+    "static/media/G.png": "/olivebeach-restaurant/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/olivebeach-restaurant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/olivebeach-restaurant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/olivebeach-restaurant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/olivebeach-restaurant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/olivebeach-restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/olivebeach-restaurant/index.html",
+    "static/media/spoon.svg": "/olivebeach-restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.915009c3.css.map": "/olivebeach-restaurant/static/css/main.915009c3.css.map",
+    "main.4147cfb1.js.map": "/olivebeach-restaurant/static/js/main.4147cfb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915009c3.css",
+    "static/js/main.4147cfb1.js"
+  ]
+}
